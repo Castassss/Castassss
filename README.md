@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruben Castanheira
 
-<!--
-**Castassss/Castassss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical and Computer Engineer with a specialization in Computer Systems, currently working as a Developer at TechFlow Solutions — a fintech startup focused on building payment APIs. Passionate about technology, innovation, and solving real-world problems through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Developing secure and scalable payment APIs at TechFlow Solutions
+- Academic projects in embedded systems, IoT, and computer vision
+- Open-source contributions and continuous skill development
+
+---
+
+## 🧠 Technical Skills
+- **Languages**: Python, C, C++, JavaScript
+- **Tools**: Git, GitHub, MySQL, Matlab, Simulink
+- **Domains**: Embedded Systems, Machine Learning, Deep Learning, 5G, RTOS, IoT, Quantum Computing, Augmented Reality
+
+---
+
+## 🎓 Education
+- 🎓 Bachelor's in Electrical and Computer Engineering – University of Coimbra
+- 🎓 Currently pursuing a Master's in the same field, with focus on real-time systems and emerging technologies
+
+---
+
+## 💬 Ask Me About
+- Backend development and system integration
+- Academic or collaborative tech projects
+- Fintech, automation, and digital innovation
+
+---
+
+## 📫 How to Reach Me
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ruben-castanheira-1b8510296/))
