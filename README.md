@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruben Castanheira
 
-🎓 Electrical and Computer Engineer with a specialization in Computer Systems, currently working as a Developer at TechFlow Solutions — a fintech startup focused on building payment APIs. Passionate about technology, innovation, and solving real-world problems through code.
+🎓 Electrical and Computer Engineer with a specialization in Computer Systems. Passionate about technology, innovation, and solving real-world problems through code.
 
 ---
 
